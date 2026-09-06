@@ -5,11 +5,11 @@
 
 ### A. ChileCompra (La Institución)
 Es la Dirección de Compras y Contratación Pública, un servicio público descentralizado adscrito al Ministerio de Hacienda. Su función es normativa, reguladora y de gestión del sistema. Se encarga de definir políticas públicas, desarrollar marcos normativos, capacitar a compradores/proveedores y monitorear el cumplimiento de las directrices de compra estatal. El rol sancionatorio y de fiscalización superior del gasto público corresponde a la Contraloría General de la República (CGR) y al Tribunal de Contratación Pública (TCP). 
-# B. Mercado Público (La Plataforma)
+### B. Mercado Público (La Plataforma)
 Es la plataforma informática transaccional (B2G - Business to Government) administrada por ChileCompra. Es el punto de encuentro digital obligatorio donde más de 850 organismos del Estado (ministerios, hospitales, municipalidades, Fuerzas Armadas, universidades estatales, etc.) publican sus requerimientos de bienes y servicios, y donde las empresas (proveedores) presentan sus ofertas.
 # 2. Modelo de Negocio y Funcionamiento Operativo
 A diferencia de un marketplace privado (como Amazon o Mercado Libre), el objetivo de Mercado Público no es generar utilidades financieras por comisiones de venta, sino maximizar la eficiencia en el uso de los recursos del Fisco, garantizar la libre concurrencia y asegurar la transparencia total.
-# A. Actores del Ecosistema de Compras Públicas
+### A. Actores del Ecosistema de Compras Públicas
 El funcionamiento del sistema se articula mediante la interacción interinstitucional de cuatro actores principales:
 Organismos Compradores (Demanda Pública): Comprende a más de 850 entidades del Estado —incluyendo ministerios, servicios públicos, hospitales, municipalidades, Fuerzas Armadas, universidades estatales y corporaciones municipales— representadas operacionalmente por unidades de compra con roles definidos (operadores, supervisores, administradores y comisiones evaluadoras).
 
@@ -19,11 +19,13 @@ ChileCompra: Como administrador de la plataforma y órgano regulador normativo q
 Contraloría General de la República (CGR): Ejerce el control de legalidad y la fiscalización superior del uso de recursos públicos.
 Tribunal de Contratación Pública (TCP): Órgano jurisdiccional independiente encargado de resolver las impugnaciones interpuestas contra actos u omisiones ilegales o arbitrarios ocurridos en los procesos de licitación.
 Sociedad Civil y Academia (Observación y Valorización): Ciudadanos, medios de comunicación, centros de estudio y laboratorios universitarios (como el CITT) que analizan la información de compras a través de las APIs de Datos Abiertos para auditoría social, detección de patrones de gasto y desarrollo de innovación analítica.
-B. Financiamiento del Sistema
+
+### B. Financiamiento del Sistema
 Inscripción Gratuita: La inscripción base es gratuita, pero para contratarse vía Convenio Marco o para ciertos procesos donde se exige la acreditación de habilidad (Registro de Proveedores gestionado por ChileProveedores/operador), pueden existir costos asociados a la certificación o sellados de habilidad según el tamaño de la empresa. 
 Presupuesto Público: El costo de desarrollo, mantenimiento de la plataforma, ciberseguridad y servidores es financiado directamente por el Presupuesto de la Nación (Ministerio de Hacienda).
 Sin Comisiones por Venta: Los proveedores no pagan un porcentaje por transacción ni por adjudicarse un contrato en las modalidades tradicionales (Licitación Pública o Compra Ágil).
-C. Modalidades de Compra y Dinámica del Ecosistema
+
+### C. Modalidades de Compra y Dinámica del Ecosistema
 Mercado Público opera bajo distintos mecanismos de adquisición según los montos y el tipo de bien:
 
 | Modalidad de Compra | Límite / Alcance | Funcionamiento del Negocio |
@@ -37,7 +39,7 @@ Mercado Público opera bajo distintos mecanismos de adquisición según los mont
 | **Diálogo Competitivo y Contratos de Innovación** | Compras Complejas o de Innovación | La Ley N° 21.634 incorporó nuevos procedimientos para compras complejas o de innovación donde el Estado no conoce de antemano la solución técnica. |
 
 
-D. Evolución del Monto Transado e Impacto País
+### D. Evolución del Monto Transado e Impacto País
 El sistema de compras públicas en Chile (Mercado Público / ChileCompra) representa un motor macroeconómico crítico para el país, movilizando entre el 4,5% y el 6% del PIB nacional.
 Volumen Anual Transado: Supera los 1,8 a 2,0 millones de órdenes de compra emitidas al año por más de 850 organismos del Estado.
 Impacto en Pymes (EMT): Mercado Público actúa como un ecualizador de acceso a mercado; las Empresas de Menor Tamaño obtienen cerca del 35% del monto total transado (en la economía abierta nacional su participación en ventas suele ser cercana al 12-13%).
