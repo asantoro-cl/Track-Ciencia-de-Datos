@@ -44,29 +44,17 @@ El sistema de compras públicas en Chile (Mercado Público / ChileCompra) repres
 Volumen Anual Transado: Supera los 1,8 a 2,0 millones de órdenes de compra emitidas al año por más de 850 organismos del Estado.
 Impacto en Pymes (EMT): Mercado Público actúa como un ecualizador de acceso a mercado; las Empresas de Menor Tamaño obtienen cerca del 35% del monto total transado (en la economía abierta nacional su participación en ventas suele ser cercana al 12-13%).
 Impacto en Probidad y Eficiencia: A través de mecanismos de agregación de demanda (como Compras Coordinadas) y mayor competencia, la plataforma genera ahorros fiscales sistemáticos superiores a los US$ 1.000 millones en trienios recientemente analizados.
-Serie Histórica de Montos Transados
-Año
-Monto Total Transado (USD)
-Hitos y Contexto de Datos
-2020
-US$ 12.300M - US$ 13.000M
-Efecto de la pandemia de COVID-19: compras de emergencia, foco en insumos de salud e inicio masivo de la Compra Ágil.
-2021
-US$ 15.100M
-Reactivación post-pandemia (+22% respecto a 2020). Fuerte incremento en Obras Públicas y Salud.
-2022
-US$ 14.800M - US$ 15.000M
-Estabilización del gasto post-pandémico y presión inflacionaria global.
-2023
-US$ 16.037M
-Entrada gradual de nuevas entidades obligadas (como Corporaciones Municipales).
-2024
-US$ 17.643M
->2,03 millones de OCs. Promulgación e implementación inicial de la Ley N° 21.634 (Modernización de Compras Públicas).
-2025
-US$ 21.953M
-Crecimiento real histórico (+20,7%) impulsado por un fuerte salto en ejecución de Obras Públicas y Gobierno Central.
 
+**Serie Histórica de Montos Transados**
+
+| Año | Monto Total Transado (USD) | Hitos y Contexto de Datos |
+| :---: | ---: | :--- |
+| **2020** | US$ 12.300M - US$ 13.000M | Efecto de la pandemia de COVID-19: compras de emergencia, foco en insumos de salud e inicio masivo de la Compra Ágil. |
+| **2021** | US$ 15.100M | Reactivación post-pandemia (+22% respecto a 2020). Fuerte incremento en Obras Públicas y Salud. |
+| **2022** | US$ 14.800M - US$ 15.000M | Estabilización del gasto post-pandémico y presión inflacionaria global. |
+| **2023** | US$ 16.037M | Entrada gradual de nuevas entidades obligadas (como Corporaciones Municipales). |
+| **2024** | US$ 17.643M | >2,03 millones de OCs. Promulgación e implementación inicial de la Ley N° 21.634 (Modernización de Compras Públicas). |
+| **2025** | US$ 21.953M | Crecimiento real histórico (+20,7%) impulsado por un fuerte salto en ejecución de Obras Públicas y Gobierno Central. |
 
 E. Distribución por Sectores Estratégicos
 Para la analítica de datos en el CITT, el comportamiento sectorial es clave porque permite analizar diferentes patrones de volumen e importes:
