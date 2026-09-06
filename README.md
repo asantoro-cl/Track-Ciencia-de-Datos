@@ -15,7 +15,9 @@ Si bien el Centro de Innovación y Transferencia Tecnológica (CITT) ofrece una 
 La iniciativa consiste en el diseño y facilitación metodológica del "Track de Ciencia de Datos" alojado en el CITT. El enfoque es de aprendizaje basado en proyectos (ABP) y mentoría técnica. Las acciones principales incluyen:
 
 a.- Planificación de un ciclo de 3 talleres de orientación donde se transferir conocimientos : procesamiento de datos, modelamiento y visualización;
+
 b.- Coordinación de desafíos prácticos autogestionados por los alumnos de la nueva mención dentro del CITT;
+
 c. Sesiones breves de retroalimentación a las propuestas presentadas por los estudiantes.
 
 Esta iniciativa se vincula directamente con los conocimientos en Ciencias de Datos : traspasando didácticamente las técnicas de análisis avanzado y gestión de datos, utilizándolas para guiar, estructurar y validar la rigurosidad científica de los proyectos que los alumnos desarrollen de forma autónoma.
