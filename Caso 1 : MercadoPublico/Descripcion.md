@@ -3,7 +3,7 @@
 
 ## 1. Definición y Diferencia Institucional
 
-# A. ChileCompra (La Institución)
+### A. ChileCompra (La Institución)
 Es la Dirección de Compras y Contratación Pública, un servicio público descentralizado adscrito al Ministerio de Hacienda. Su función es normativa, reguladora y de gestión del sistema. Se encarga de definir políticas públicas, desarrollar marcos normativos, capacitar a compradores/proveedores y monitorear el cumplimiento de las directrices de compra estatal. El rol sancionatorio y de fiscalización superior del gasto público corresponde a la Contraloría General de la República (CGR) y al Tribunal de Contratación Pública (TCP). 
 # B. Mercado Público (La Plataforma)
 Es la plataforma informática transaccional (B2G - Business to Government) administrada por ChileCompra. Es el punto de encuentro digital obligatorio donde más de 850 organismos del Estado (ministerios, hospitales, municipalidades, Fuerzas Armadas, universidades estatales, etc.) publican sus requerimientos de bienes y servicios, y donde las empresas (proveedores) presentan sus ofertas.
