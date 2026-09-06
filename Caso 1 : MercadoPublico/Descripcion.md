@@ -1,7 +1,7 @@
-## CASO : MERCADO PÚBLICO
+# CASO : MERCADO PÚBLICO
 
 
-# 1. Definición y Diferencia Institucional
+## 1. Definición y Diferencia Institucional
 
 # A. ChileCompra (La Institución)
 Es la Dirección de Compras y Contratación Pública, un servicio público descentralizado adscrito al Ministerio de Hacienda. Su función es normativa, reguladora y de gestión del sistema. Se encarga de definir políticas públicas, desarrollar marcos normativos, capacitar a compradores/proveedores y monitorear el cumplimiento de las directrices de compra estatal. El rol sancionatorio y de fiscalización superior del gasto público corresponde a la Contraloría General de la República (CGR) y al Tribunal de Contratación Pública (TCP). 
